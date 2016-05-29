@@ -1,0 +1,16 @@
+c:\users\nasko\documents\visual studio 2015\Projects\SocialNetwork.Models\SocialNetwork.Data\bin\Debug\SocialNetwork.Data.dll.config
+c:\users\nasko\documents\visual studio 2015\Projects\SocialNetwork.Models\SocialNetwork.Data\bin\Debug\SocialNetwork.Data.dll
+c:\users\nasko\documents\visual studio 2015\Projects\SocialNetwork.Models\SocialNetwork.Data\bin\Debug\SocialNetwork.Data.pdb
+c:\users\nasko\documents\visual studio 2015\Projects\SocialNetwork.Models\SocialNetwork.Data\bin\Debug\EntityFramework.dll
+c:\users\nasko\documents\visual studio 2015\Projects\SocialNetwork.Models\SocialNetwork.Data\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\nasko\documents\visual studio 2015\Projects\SocialNetwork.Models\SocialNetwork.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+c:\users\nasko\documents\visual studio 2015\Projects\SocialNetwork.Models\SocialNetwork.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\nasko\documents\visual studio 2015\Projects\SocialNetwork.Models\SocialNetwork.Data\bin\Debug\SocialNetwork.Models.dll
+c:\users\nasko\documents\visual studio 2015\Projects\SocialNetwork.Models\SocialNetwork.Data\bin\Debug\SocialNetwork.Models.pdb
+c:\users\nasko\documents\visual studio 2015\Projects\SocialNetwork.Models\SocialNetwork.Data\bin\Debug\EntityFramework.xml
+c:\users\nasko\documents\visual studio 2015\Projects\SocialNetwork.Models\SocialNetwork.Data\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\nasko\documents\visual studio 2015\Projects\SocialNetwork.Models\SocialNetwork.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+c:\users\nasko\documents\visual studio 2015\Projects\SocialNetwork.Models\SocialNetwork.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\nasko\documents\visual studio 2015\Projects\SocialNetwork.Models\SocialNetwork.Data\obj\Debug\SocialNetwork.Data.csprojResolveAssemblyReference.cache
+c:\users\nasko\documents\visual studio 2015\Projects\SocialNetwork.Models\SocialNetwork.Data\obj\Debug\SocialNetwork.Data.dll
+c:\users\nasko\documents\visual studio 2015\Projects\SocialNetwork.Models\SocialNetwork.Data\obj\Debug\SocialNetwork.Data.pdb
